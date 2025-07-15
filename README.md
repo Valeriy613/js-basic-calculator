@@ -13,7 +13,7 @@ This is my first frontend project — designed to practice working with the DOM,
 - Multiplication (`*`)
 - Division (`/`)
 - Input for two numbers
-- Operation selection via `<select>`
+- Operation selection `<select>`
 - Calculate button
 - Basic styling with animation and hover effects
 
