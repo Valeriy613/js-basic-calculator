@@ -2,7 +2,7 @@ const BtnResult = document.querySelector('.js-BtnResult');
 const InputA = document.querySelector('.js-InputA');
 const InputB = document.querySelector('.js-InputB');
 const Operation = document.querySelector('.js-Select-Operation');
-const output = document.querySelector('.js-output');
+const output = document.querySelector('.js-Output');
 
 const OPERATIONS = {
     sum: '+',
