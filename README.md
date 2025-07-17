@@ -6,7 +6,7 @@ A simple calculator built with **HTML**, **CSS**, and **JavaScript** — my firs
 
 ## Live Demo
 
-[Try it here][(http://mywebsiteforgit.wuaze.com/)](http://mywebsiteforgit.wuaze.com/)
+[Try it here](http://mywebsiteforgit.wuaze.com/)
 
 ---
 
