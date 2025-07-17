@@ -24,3 +24,7 @@ This is my first frontend project — designed to practice working with the DOM,
 - HTML5
 - CSS3 (Flexbox, transitions, hover effects)
 - JavaScript (Functions, DOM manipulation, event listeners)
+
+## Live Demo
+
+Try it out here: http://mywebsiteforgit.wuaze.com/
