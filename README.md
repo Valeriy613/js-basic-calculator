@@ -1,6 +1,6 @@
 # JS Basic Calculator
 
-A simple calculator built with **HTML**, **CSS**, and **JavaScript** — my first frontend project, created to practice DOM manipulation, styling, and basic logic.
+A simple calculator built with **HTML**, **CSS**, and **JavaScript** — my first frontend project, created to practice DOM manipulation, styling, and basic logics.
 
 ---
 
